@@ -1,0 +1,12 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "O",
+    "keyBindingName": "Objection!",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "ObjectionTriggerEvent"
+    }
+  }
+}

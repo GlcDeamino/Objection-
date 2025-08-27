@@ -1,0 +1,11 @@
+{
+  "objection": {
+    "subtitle": "subtitles.objection",
+    "sounds": [
+      {
+        "name": "objection:objection",
+        "stream": false
+      }
+    ]
+  }
+}
